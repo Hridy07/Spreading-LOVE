@@ -88,9 +88,9 @@ h3 {
     text-align: center;
     background-color: rgba(128, 128, 128, 0.39);
     background-size: 20px;
-    box-shadow: 10px 10px 70px rgba(128, 128, 128, 0.473);
     margin-left: 2%;
     padding: 3%;
+    box-shadow: inset 5px 5px 10px gray;
 
 }
 
@@ -113,16 +113,19 @@ h3 {
 #m1 {
     background-color: rgba(255, 228, 196, 0.678);
     padding: 5%;
+
 }
 
 #m2 {
     background-color: rgba(122, 161, 150, 0.562);
     padding: 5%;
+
 }
 
 #m3 {
     background-color: rgba(182, 127, 163, 0.596);
     padding: 5%;
+
 }
 
 .contribute1 {
